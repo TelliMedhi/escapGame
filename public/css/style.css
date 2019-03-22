@@ -1,0 +1,83 @@
+body{
+	background-image: url(../img/X2.jpg);
+	background-repeat: no-repeat;
+}
+#btnCall{
+	background-color: green;
+}
+#btn2{
+    background-color: red;
+}
+
+.btnCall{
+width: 25px;
+
+}
+.btnStop{
+
+background-image:url(../img/btndelet.jpg);
+
+}
+.clavier{
+	margin-top: 200px;
+	margin-left: 145px;
+	
+   }
+ .ecran{
+ 	
+ 	height: 570px;
+ 	width: 260px;
+ 	margin-top: 15px;
+	margin-left: 180px;
+	border-radius: 25px;
+	/*margin-right: 920px;
+	margin*/
+ }
+ #input1{
+padding-top: 100px;
+width: 260px;
+height: 300px;
+
+ }
+ #input{
+ background: none;
+ border:none;
+font-size: 40px;
+ 	width: 260px;
+ 	
+
+ }
+ .btn{
+ 	border-radius: 50%;
+ 	border:solid #5d6383 0.9px;
+ 	font-size: 25px;
+ 	background-color:#e7e8ed;
+ 	/*background: rgba(9, 5, 5, 0.8);
+ 	/*height: 65px;
+ 	width: 65px;*/
+ }
+ big{
+ 	font-size: 50px;
+ 	font-family: 'Heebo', sans-serif;
+ }
+.button{
+	margin-top: 100px;
+}
+
+.text{
+    font-family: 'Special Elite', cursive;
+
+
+}
+.textIntro{
+	width: 300px;
+	margin-top: 70px;
+	margin-left: 100px;
+}
+.FondEcran{
+	background-color: black;
+	color: white;
+}
+audio{
+    display: none;
+}
